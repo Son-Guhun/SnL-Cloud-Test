@@ -1,0 +1,19 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "u03P,22367.133,5923.104,0.000,131.482,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u02T,22393.801,5798.646,0.000,160.828,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u000,22418.648,5677.090,0.000,219.083,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u02K,22441.414,5551.764,0.000,251.063,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u01N,22475.727,5943.332,0.000,101.294,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u02L,22500.297,5820.520,0.000,101.295,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u01C,22524.867,5697.697,0.000,281.311,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u01P,22549.438,5574.869,0.000,281.328,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u02H,22583.410,5965.049,0.000,72.766,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u02G,22607.023,5841.375,0.000,41.055,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u003,22631.383,5719.488,0.000,341.963,D,D,D,D,D,D,D,D,0" )
+	call Preload( "u015,22657.910,5595.195,0.000,312.126,D,D,D,D,D,D,D,D,0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
