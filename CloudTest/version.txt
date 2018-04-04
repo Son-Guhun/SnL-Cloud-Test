@@ -1,0 +1,8 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "2" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
